@@ -62,7 +62,7 @@
                     </div>
 
                     <div class="form-button-group">
-                        <button type="submit" class="btn btn-sucsess btn-block btn-lg">Log in</button>
+                        <button type="submit" class="btn btn-success btn-block btn-lg">Log in</button>
                     </div>
 
                 </form>

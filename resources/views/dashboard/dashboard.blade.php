@@ -7,8 +7,8 @@
             <img src="assets/img/sample/avatar/avatar1.jpg" alt="avatar" class="imaged w64 rounded">
         </div>
         <div id="user-info">
-            <h2 id="user-name">Adam Abdi Al A'la</h2>
-            <span id="user-role">Head of IT</span>
+            <h2 id="user-name">Lulu Nabilah</h2>
+            <span id="user-role">Administrator</span>
         </div>
     </div>
 </div>
@@ -25,6 +25,16 @@
                     </div>
                     <div class="menu-name">
                         <span class="text-center">Profil</span>
+                    </div>
+                </div>
+                <div class="item-menu text-center">
+                    <div class="menu-icon">
+                        <a href="" class="danger" style="font-size: 40px;">
+                            <ion-icon name="document-text"></ion-icon>
+                        </a>
+                    </div>
+                    <div class="menu-name">
+                        <span class="text-center">Master Data</span>
                     </div>
                 </div>
                 <div class="item-menu text-center">
